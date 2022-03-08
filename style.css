@@ -1,0 +1,16 @@
+body {
+    background-color: black;    
+    overflow: hidden;
+}
+p {
+    background: url("/img/me.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    user-select: none;
+    -webkit-background-clip: text;
+    font-family: "dancing script", sans-serif;    
+    background-attachment: fixed;
+    filter: brightness(2);
+    text-align: justify;
+
+}
